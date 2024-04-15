@@ -1,4 +1,5 @@
 import time
 
-print('device core : 4')
-time.sleep(15)
+print('\033[0mwaiting device')
+
+time.sleep(5)
