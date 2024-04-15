@@ -1,4 +1,4 @@
 import time
 
-def setup():
-    time.sleep(15)
+print('start')
+time.sleep(15)
